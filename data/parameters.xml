@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Document   : parameters.xml
+    Created on : 25 novembre 2012, 17:05
+    Author     : Juste
+    Description:
+        Globals admin parameters; all public so no security issue
+-->
+<parameters>
+
+    <!--Entries status-->
+
+    <!--if entries are open or not-->
+    <entriesOpen>1</entriesOpen>
+
+
+    <!--Number of the current stage-->
+    <currentStageNumber>1</currentStageNumber>
+
+    <!--current season (to archive docs)-->
+    <currentSeason>2013</currentSeason>
+
+
+
+    <!--News management parameters-->
+    <lastNewsID>2</lastNewsID>
+
+
+</parameters>

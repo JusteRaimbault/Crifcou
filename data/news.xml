@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<news>
+
+    <!--content may change-->
+
+
+        <new>
+
+		<title>Classement général</title>
+                <canontitle>globalresults</canontitle>
+                <id>1</id>
+
+		<author>CRSU</author>
+		<date>20/04/2013</date>
+
+		<resume>Le classement général du CRIFCOU 2012/2013 est disponible</resume>
+
+
+	</new>
+
+
+        <new>
+
+		<title>Deuxième étape du CRIFCOU</title>
+                <canontitle>etape2</canontitle>
+                <id>1</id>
+
+		<author>CRSU</author>
+		<date>05/02/2013</date>
+
+		<resume>Deuxième étape le 14/02/2013</resume>
+
+		<text>La première étape du CRIFCOU aura lieu le 14 février sur le Campus de l'école Polytechnique (Palaiseau).<br/>
+                Vous pouvez déjà vous inscrire en ligne et consulter l'annonce de course.
+                </text>
+
+	</new>
+
+
+        <new>
+
+		<title>Résultats de la Première étape</title>
+                <canontitle>resultsetape1soon</canontitle>
+                <id>1</id>
+
+		<author></author>
+		<date>20/01/2013</date>
+
+		<resume>Les résultats de la première étape sont disponibles! (page étapes)</resume>
+
+		<text></text>
+
+	</new>
+
+
+        <new>
+
+		<title>Première étape du CRIFCOU</title>
+                <canontitle>etape1</canontitle>
+                <id>1</id>
+
+		<author>CRSU</author>
+		<date>21/12/2012</date>
+
+		<resume>Première étape le 17/01/2012</resume>
+
+		<text>La première étape du CRIFCOU aura lieu le 17 janvier à la cité Universitaire de Paris.<br/>
+                Vous pouvez déjà vous inscrire en ligne.
+                </text>
+
+	</new>
+
+
+
+	<new>
+		
+		
+		<title>Mise en ligne prochaine</title>
+                <canontitle>onlinesoon</canontitle>
+                <id>1</id>
+
+		<author></author>
+		<date></date>
+
+		<resume>Prochainement sur cet espace, l'ensemble des informations sur le CRIFCOU 2012/2013</resume>
+
+		<text>Au fur et à mesure de la mise en place du site, de nouvelles fonctionnalités apparaitront.
+                
+                </text>
+
+	</new>
+
+
+
+
+
+</news>

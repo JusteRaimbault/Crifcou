@@ -1,0 +1,368 @@
+/* 
+    Document   : styles
+    Created on : 18 mai 2012, 16:29:10
+    Author     : Juste
+*/
+
+
+root {
+    display: block;
+}
+
+body {
+    width : 98%;
+    height : auto;
+    border : solid #71400e 10px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+
+    color: #71400e;
+    background-color : #d1bcaa;
+}
+
+body a{
+    color: #71400e;
+
+}
+
+body a:hover{
+    background-color: #fef9e4;
+
+}
+
+#entete{
+    display: inline-block;
+
+    width: 100%;
+    height: 200px;
+    background-image: url(../styles/images/courbes.png);
+
+    position: relative;
+    
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    
+    vertical-align: top;
+    text-align: center;
+
+    word-spacing:normal;
+    
+    
+}
+
+#entete h1{
+    color: #71400e;
+    word-spacing:normal;
+    font-weight: bolder;
+    font-size: 50px;
+    
+    vertical-align: top;
+    margin-top: 33px;
+    margin-bottom: 33px;
+}
+
+#entete h2{
+    color: #71400e;
+    word-spacing:normal;
+    font-weight: bold;
+    width: 66%;
+
+    font-size: 1.5em;
+    
+
+    background-color: #fef9e4;
+
+    text-align: center;
+    margin-left: 17%;
+    margin-right: 17%;
+    margin-top: 19px;
+    margin-bottom: 35px;
+    
+    line-height: 30px;
+}
+
+#entete ul{
+    width:55%;
+    margin-left:20%;
+    margin-right: 15%;
+    word-spacing: 30px;
+    border : solid #71400e 2px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+#entete ul li{
+    vertical-align: bottom;
+
+    display : inline;
+    padding-left: 5px;
+    padding-right: 5px;
+    text-decoration: none;
+    font-weight: bolder;
+    font-style: italic;
+    font-size: 17px;
+    font-family: Georgia,'Times New Roman',times,serif;
+    color: #71400e;
+    word-spacing:normal;
+    background-color: #fef9e4;
+
+}
+
+#entete ul li a:hover{
+    background-color: #d1bcaa;
+    color: #71400e;
+
+}
+
+.menulink{
+    color: #71400e;
+    vertical-align: bottom;
+    background-color: #fef9e4;
+    text-decoration: underline;
+
+}
+
+#bandeHaut{
+    display:inline-block;
+    width:100%;
+    height:50px;
+    background:-webkit-linear-gradient(top, #fef9e4, #d1bcaa 80%);
+    background:-moz-linear-gradient(top, #fef9e4, #d1bcaa 80%);
+    background:-ms-linear-gradient(top, #fef9e4, #d1bcaa 80%);
+    background:-o-linear-gradient(top, #fef9e4, #d1bcaa 80%);
+    background:linear-gradient(top, #fef9e4, #d1bcaa 80%);
+}
+
+#loginarea{
+    display:inline-block;
+    width:100%;
+    background-color:  #d1bcaa;
+    height: 50px;
+    
+}
+
+#loginForm{
+    display:inline;
+    margin-right: 10px;
+    width : 30%;
+    margin-left: 45px;
+    
+}
+
+#loginarea p{
+    margin-left: 45px;
+    
+}
+
+
+
+#contenu{
+    display: inline-block;    
+    width:100%;
+    height:auto;
+    background-color: #d1bcaa;
+    position: relative;
+    margin-left:0px;
+    margin-right: 5%;
+    
+    
+    
+    line-height: 5px;
+    
+    text-indent: 30px;
+
+}
+
+
+#contenu h1{
+    font-weight: bolder;
+    text-decoration: underline;
+    font-size: 25px;
+    line-height: 25px;
+
+}
+
+#contenu h2{
+
+    font-weight: bold;
+    font-style: italic;
+    font-size: 20px;
+    line-height: 25px;
+
+}
+
+#contenu h3{
+
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 25px;
+
+}
+
+#contenu ul{
+    line-height: 25px;
+}
+
+#contenu li{
+    text-indent: 0px;
+}
+
+#contenu p{
+    line-height: 25px;
+}
+
+#contenu a{
+    text-decoration: underline;
+}
+
+
+#carte {
+    width: 80%;
+    height: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    border : solid #71400e 2px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+
+.forms{
+    text-indent: 0px;
+    margin-left : 50px;
+
+    line-height: 3px;
+}
+
+#uploadOk{
+    width:100%;
+    height:600px;
+    border-right-style: none;
+    border-left-style: none;
+    border-bottom-style: none;
+    border-top-style: none;
+}
+
+#uploadOk body{
+    color: #71400e;
+    text-indent: 40px;
+}
+
+#regresult{
+    border:none;
+    width:100%;
+}
+
+#regresult body{
+    color: #71400e;
+    text-indent: 40px;
+}
+
+#footer{
+    display:inline-block;
+    width :100%;
+    height:auto;
+    border:none;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    background-color: #d1bcaa;
+}
+
+.dtable{
+    border : solid #71400e 2px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.news{
+    /*same background as title*/
+    background-color: #fef9e4;
+    
+    /*borders also*/
+    border : solid #71400e 2px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+
+    margin : 10px;
+}
+
+.stage{
+    /*same background as title*/
+    background-color: #fef9e4;
+
+    /*borders also*/
+    border : solid #71400e 2px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+
+    margin : 10px;
+}
+
+#entriesForm{
+    padding : 15px;
+
+    background-color: #fef9e4;
+
+    border : solid #71400e 2px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.adminActionDiv{
+    border-left : solid #71400e 2px;
+    padding-left: 8px;
+    text-indent: 0px;
+}
+
+.addDoc{
+    padding : 15px;
+
+    background-color: #fef9e4;
+
+    border : solid #71400e 2px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+#resultsTable{
+    background-color: #d1d1d1;
+    margin : 20px;
+    width : 95%;
+}
+
+.hidden{
+    hidden:hidden;
+}
+
+.lb-close-button{
+    position: absolute;
+    height:33px;
+    width:33px;
+    left: 76%;
+    background-image: url('images/closeButton.png');
+}
+
+.lb-close-button:hover{
+    
+}
+
+
+
+
+

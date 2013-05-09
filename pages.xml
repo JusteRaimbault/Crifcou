@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<pages>
+
+    <page>
+        <name>acceuil</name>
+        <title>Accueil</title>
+        <titlemenu>Accueil</titlemenu>
+        <authorized>ALL</authorized>
+    </page>
+
+    <page>
+        <name>etapes</name>
+        <title>Etapes</title>
+        <titlemenu>Etapes</titlemenu>
+        <authorized>ALL</authorized>
+    </page>
+
+    <page>
+        <name>results</name>
+        <title>Résultats</title>
+        <titlemenu>Résultats</titlemenu>
+        <authorized>ALL</authorized>
+    </page>
+
+    <page>
+        <name>inscriptions</name>
+        <title>Inscriptions</title>
+        <titlemenu>Inscriptions</titlemenu>
+        <authorized>ALL</authorized>
+    </page>
+
+    <page>
+        <name>reglement</name>
+        <title>Circulaire</title>
+        <titlemenu>Règlement</titlemenu>
+        <authorized>ALL</authorized>
+    </page>
+
+
+    <page>
+        <name>admin</name>
+        <title>Administration</title>
+        <titlemenu>Admin</titlemenu>
+        <authorized>ROOT</authorized>
+    </page>
+
+
+
+</pages>

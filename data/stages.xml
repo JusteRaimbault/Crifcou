@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Document   : stages.xml
+    Created on : 19 janvier 2013, 22:26
+    Author     : Juste
+    Description:
+        Document listing all stages
+-->
+<stages>
+
+
+
+
+
+
+
+
+
+<stage number="1"><annonceAvailable>1</annonceAvailable><resultsAvailable>1</resultsAvailable><resultsSIAvailable/><mapSampleAvailable>1</mapSampleAvailable><resultsCSVAvailable>1</resultsCSVAvailable></stage><stage number="4"><annonceAvailable>1</annonceAvailable><resultsAvailable/><resultsSIAvailable/><mapSampleAvailable/><resultsCSVAvailable>1</resultsCSVAvailable></stage><stage number="5"><annonceAvailable>1</annonceAvailable><resultsAvailable/><resultsSIAvailable/><mapSampleAvailable/><resultsCSVAvailable>1</resultsCSVAvailable></stage><stage number="2"><annonceAvailable/><resultsAvailable/><resultsSIAvailable/><mapSampleAvailable>1</mapSampleAvailable><resultsCSVAvailable>1</resultsCSVAvailable></stage><stage number="3"><annonceAvailable>1</annonceAvailable><resultsAvailable/><resultsSIAvailable/><mapSampleAvailable/><resultsCSVAvailable>1</resultsCSVAvailable></stage></stages>
