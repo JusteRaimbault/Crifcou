@@ -1,0 +1,25 @@
+Instrukcija: <br><br>
+<br><B>KAIP NUBRËÞTI IR IÐSAUGOTI SAVO KELIÀ</B>
+<br>1. Paþymëkite varnele „Nubrëþti savo kelià“, kuri yra virðutiniame deðiniajame ekrano kampe.
+<br>2. Pasirinkite savo distancijà ir vardà/pavardæ ið sàraðo esanèio þemiau. (Jei distancija be ið anksto ákrautø splitø - vardà/pavardæ bei splitus reikës ávesti)
+<br>3. Splitus reikia ávesti pavidalu mmmss (be jokiø skyrybos þenklu! pvz. jei jûsø laikas iki 1 KP yra 10:03 - vedame: 1003)
+<br>4. Vedami ne atskiri laikai tarp punktø, o laiko suma! (pvz. iki 1KP bëgote 2:03, iki 2KP 1:05, iki 3KP 4:15 - vedame 203 tada 308 tada 724 ir t.t.)
+<br>5. Suraskite þemëlapyje starto vietà(raudonas trikampis). Jûs galite tampyti þemëlapá pelës kairiojo klaviðo pagalba.
+<br>6. Nubrëþkite savo kelià nuo starto iki 1KP. Reikia tiesiog baksnoti pelës kairiuoju klaviðu ant þemëlapio ir programa sujungs atkarpas á vienà linijà. Jûsø kelias bus paþymëtas raudona linija. Mëlyna (pilka) linija þymës kryptá á sekantá KP. Kai Jûsø kelias pasieks KP apskritimo centrà, mëlyna linija persijungs á kità KP. Jei paþymejote ne ten, galite sugriþti paspaudus mygtukà „Atðaukti“.
+<br>7. Braiþymo metu Jûs taip pat galite pastumti þemëlapá pelës kairiojo klaviðo pagalba.
+<br>8. Jei kur nors stovëjote, galite tai paþymeti mygtuko „+3 sec“ pagalba. (tuomet jûsø bëgimas bus ávestas tiksliau)
+<br>9. Jei buvo tokia situacija: prabëgote visai ðalia punkto, bet jo nepamatëte - naudokite „Paèiupti áj / iðj“ varnelæ. Jei „Paèiupti“ bûsena yra ájungta - programa fiksuos punkto paëmimà, kai tik pele paþymësite punkto(apskritimo) centrà. Jei „Paèiupti“ bûsena yra iðjungta  - galite kiek norit bëgioti per punktà (apskritimo centrà) ir programa nefiksuos punkto paëmimo.
+<br>10. Nubrëþkite visus kelius nuo starto iki finiðo.
+<br>11. Kai Jûs pasieksite finiðà ir patikrinsit savo rezultatà, iraðykite nedidelá komentarà á atitinkamà laukà ir paspauskite „Iðsaugoti“.
+<br><br>
+<B>KELIØ PERÞIÛRA</B>
+<br>- Ið pradþiø pasirinkite distancijà, tada pasirinkite dalyvius. (Sàraðe vaizduojami tik tie dalyviai, kurie nubraiþë savo kelius) Paspauskite „Rodyti kelià“.
+<br>- Vienu metu rodomi ne daugiau 10 dalyviø keliai.
+<br>- Jûs galite pastumti þemëlapá pelës kairiojo klaviðo pagalba.
+<br><br>
+<B>ANIMACIJA</B>
+<br>- Pasirinkite distancijà, tada pasirinkite dalyvius ið sàraðo (max 10). (Sàraðe vaizduojami tik tie dalyviai, kurie nubraiþë savo kelius).  Tada spauskit „Rodyti animacijà“.
+<br>- Animacija pradedama paspaudus mygtukà „Startas“, kuris atsiranda ekrano deðinëje pusëje.
+<br>- Jei norite, galite nustatyti skirtingus starto laikus. Tam reikia paspausti mygtukà „Starto laikai“. Atsiradusiame lange Jûs galësite nurodyti kiekvieno dalyvio starto laikà minutëmis.
+<p align=right class=credits>Vertimas OK Medis (Zarasai)</p>####
+Aèiû. Jûsø kelias sëkmingai áraðytas.

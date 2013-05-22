@@ -1,0 +1,19 @@
+<B>NÄIN PIIRRÄT JA TALLENNAT REITTISI</B>
+<br><B>1.</B> <B>Valitse sarjasi</B> ja siirry kartalla lähtökolmion luo. Kartalla liikutaan ottamalla hiirellä kartasta kiinni ja vetämällä karttaa haluttuun suuntaan.
+<br><B>2.</B> Klikkaa yläreunassa oleva <B>"Piirrä reitti" -valinta päälle</B>.
+<br><B>3.</B> <B>Valitse oma nimesi</B> valintalistasta.
+<br><B>4.</B> <B>Aloita</B> viivan piirtäminen <B>klikkaamalla lähtökolmiosta eteenpän</B> pitkin juoksemaasi reittiä. Reittisi näkyy punaisena viivana. <B>Sininen viiva osoittaa mille rastille olet menossa</B>. <B>Sininen viiva siirtyy</B> osoittamaan seuraavaa rastia kun olet<B> klikannut riittävän lähelle rastin keskustaa</B>. Jos piirrät jossain kohdassa väärin, <B>pääset</B> klikkaamasi piste kerrallaan <B>takaisinpäin "Undo" -napilla</B>.
+<br><B>5.</B> Myös piirtämisen aikana voit liikuttaa karttaa vetämällä karttaa hiirellä hiiren nappi pohjassa.
+<br><B>6.</B> Piirrä <B>koko reittisi lähdöstä maaliin</B>.
+<br><B>7.</B> Kun olet maalissa ja reittipiirros on valmis, <B>kirjoita</B> lyhyet <B>kommentit</B> suorituksestasi tekstikenttään ja<B> paina "Tallenna reittipiirros" -nappia</B>. 
+<p>
+<B>REITTIEN KATSELU</B>
+<br>- Valitse ensin sarja ja sitten listasta haluamasi kilpailijat ja paina listan alla olevaa "Näytä reitit" -painiketta.
+<br>- Kilpailijoita näytetään kerrallaan enintään kymmenen. Jos valitset enemmän, listan kymmenen ylintä valittua näytetään. 
+<br>- Voit liikuttaa karttaa vetämällä karttaa hiirellä hiiren nappi pohjassa 
+<p><B>ANIMAATIOT</B>
+<br>- Valitse ensin sarja ja sitten listasta haluamasi kilpailijat ja paina listan alla olevaa "Lataa animaatio" -painiketta.
+<br>- Käynnistä animaatio painamalla oikeaan reunaan tulevalla "Start" -painikeella.
+<br>- Halutessasi voit antaa lähtöaikojen erot syöttämällä tiedot "Lähtöajat" -painikkeesta avautuviin kenttiin. 
+####
+Reittisi on tallennettu, kiitos reitin piirtämisestä. Takaisin karttasivulle.

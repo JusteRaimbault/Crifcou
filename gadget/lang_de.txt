@@ -1,0 +1,21 @@
+Anleitung:
+<br><B>ROUTE EINZEICHNEN UND SPEICHERN</B>
+<br>1. Klicke auf das "Route einzeichnen"-K&auml;stchen in der rechten oberen Ecke.
+<br>2. W&auml;hle deine Klasse und deinen Namen aus den Listen aus.
+<br>3. Suche den Startpunkt (Dreieck) auf der Karte. Du kannst die Karte verschieben indem du mit der linken Maustaste auf die Karte klickst und h&auml;ltst und die Maus in die jeweilige Richtung bewegst.
+<br>4. Zeichne deine Route vom Startpunkt zum ersten Posten ein indem du dort hinklickst, wo du die Richtung gewechselt hast (das Programm zeichnet eine Gerade zwischen den von dir angegebenen Punkten). Deine Route wird rot dargestellt. Die blaue Linie zeigt die Richtung zum n&auml;chsten Posten an. Wenn du einen Richtungswechsel ins Zentrum des Postenrings setzt, wechselt die blaue Linie zum n&auml;chsten Posten. Wenn du einen Fehler beim Einzeichnen deiner Route machst, kannst du mit dem "zur&uuml;ck"-Button einen oder mehrere Schritte r&uuml;ckg&auml;ngig machen.
+<br>5. Du kannst auch w&auml;hrend dem Einzeichnen deiner Route die Karte verschieben: Klicke und halte die linke Maustaste und bewege die Maus in die jeweilige Richtung.
+<br>6. Zeichne deine gesamte Route vom Start bis ins Ziel.
+<br>7. Wenn du im Ziel angekommen und mit der Route zufrieden bist, gib ein kurzes Kommentar im Kommentarfeld ein und klicke auf "Route speichern".
+<br><br>
+<B>ROUTEN ANSEHEN</B>
+<br>- W&auml;hle eine Klasse und mehrere Wettk&auml;mpfer aus den Listen (es werden nur Wettk&auml;mpfer angezeigt, die ihre Route eingezeichnet haben). Klicke auf "Routen zeigen".
+<br>- Es k&ouml;nnen maximal 10 Wettk&auml;mpfer angezeigt werden. Wenn du mehr ausw&auml;hlst, werden nur die 10 besten angezeigt.
+<br>- Du kannst die Karte verschieben indem du mit der linken Maustaste auf die Karte klickst und h&auml;ltst und die Maus in die jeweilige Richtung bewegst.
+<br><br>
+<B>ANIMATIONEN</B>
+<br>- W&auml;hle eine Klasse und bis zu 10 Wettk&auml;mpfer aus den Listen (es werden nur Wettk&auml;mpfer angezeigt, die ihre Route eingezeichnet haben). Klicke auf "Animation zeigen".
+<br>- Starte die Animation durch Klicken auf den "Start"-button in der rechten unteren Ecke.
+<br>- Du kannst auch Startzeiten vergeben indem du auf "Startzeiten" klickst. Ein Dialogfenster &ouml;ffnet sich, in das du Startzeiten in Minuten f&uuml;r jeden Wettk&auml;mpfer eingeben kannst.
+<p align=right class=credits>&Uuml;bersetzung von Markus Plohn</p>####
+Vielen dank. Deine Route wurde erfolgreich gespeichert. Klicke auf den "zur&uuml;ck"-Button deines Browsers.

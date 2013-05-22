@@ -1,0 +1,32 @@
+<B>PÅ DETTA SÄTT RITAR OCH SPARAR DU DINA VÄGVAL</B>
+<br><B>1.</B> <B>Välj din klass</B> och förflytta dig på kartan till starttriangeln. Man rör sig på kartan genom att med musen ta tag i kartan och dra kartan i önskad riktning.
+<br><B>2.</B>  B>Välj läget "Rita vägval"</B> som finns i ovankanten.
+<br><B>3.</B> <B>Välj din klass</B> ur förteckningen.
+<br><B>4.</B> <B>Välj ditt namn</B> ur förteckningen. Ifall det ej finns en namnförteckning skriver du ditt namn i textfältet. 
+
+<br><B>5.</B> <B>Börja</B> rita linjen, <B>genom klicka från starttriangeln</B> framöver det vägval du löpt. Ditt vägval syns som en röd linje. <B>Den blåa linjen visar till vilken kontroll du är på väg till.</B>. <B>Den blåa linjen riktar sig mot</B> följande kontroll då du<B> klickat tillräckligt nära kontrollringens mitt.</B> Ifall du ritar fel någonstans<B> kommer</B> du tillbaka en klickad punkt åt gången med hjälp av "Undo"-knappen.
+<br><B>6.</B> Du kan även under ritandet flytta på kartan genom att dra kartan med musen då du håller musknappen nertryckt.
+<br><B>7.</B> Rita <B>alla dina vägval från start till mål.</B>.
+<br><B>8.</B> Då du kommit till mål och vägvalsritningen är klar <B>skriver du</B> korta <B>kommentarer</B> om din prestation i textfältet och<B> trycker på "Spara vägval"-knappen</B>. 
+<p>
+<B>VISA VÄGVAL</B>
+<br>- Välj först klass och sedan ur menyn önskade tävlande och tryck på den under menyn varande "Visa vägval"-knappen.
+<br>- Tävlande visas högst 10 åt gången. Ifall du väljer fler, visas de tio överst valda.
+<br>- Du kan flytta på kartan genom att dra kartan med musknappen i botten.
+
+<p><B>ANIMATIONER</B>
+<br>- Välj först klass och sedan ur förteckningen önskade tävlande och tryck på den under listan varande "Ladda animation"-knappen.
+<br>- Starta animationen genom att trycka på den till höger befinnande "Start"-knappen.
+<p align=right class=credits>Translation by Anders Westerlund</p>
+####
+Dina vägval är sparade. Tack för att du ritade dem. Du kan återvända till kartsidan med hjälp av din browsers "Back"-knapp.
+
+
+
+
+ 
+ 
+
+
+
+

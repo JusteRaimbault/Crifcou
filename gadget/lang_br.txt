@@ -1,0 +1,21 @@
+Instruções:
+<br><B>COMO TRAÇAR E SALVAR SUA ROTA</B>
+<br>1. Selecione "Trace sua rota", no canto superior direito da tela.
+<br>2. Clique nas caixas e escolha sua categoria e seu nome constantes das listas apresentadas.
+<br>3. Encontre o ponto de início da pista (triângulo) na carta. Você pode movimentar o mapa apertando e soltando o botão esquerdo do mouse enquanto move o cursor na direção desejada.
+<br>4. Trace sua rota do triângulo até o primeiro ponto, clicando com o botão esquerdo do mouse quando houver mudanças de direção. O programa criará uma linha vermelha entre os pontos que você clicar - esta será sua rota. A linha azul mostrará a direção para o próximo ponto. Quando você tiver traçado a rota dentro do círculo do controle, a linha azul aparecerá para o ponto seguinte. Se você errar ao clicar alguma parte da rota, você pode voltar um ou mais cliques a qualquer momento acionando a tecla "Voltar".
+<br>5. Você também pode mover a carta enquanto traça a rota: aperte e segure o botão esquerdo do mouse e movimente o cursor na direção desejada.
+<br>6. Trace sua rota do triângulo até a chegada.
+<br>7. Quando você terminar de traçar sua pista, estando satisfeito com o resultado, digite alguns poucos comentários no campo a isso destinado e clique em "Salvar rota".
+<br><br>
+<B>VENDO AS ROTAS</B>
+<br>- Primeiro escolha uma categoria; depois, escolha alguns orientistas da lista (Só aqueles que traçaram suas rotas estarão aqui). Finalmente, clique em "Ver rotas".
+<br>- No máximo 10 orientistas podem ser vistos ao mesmo tempo. Se você escolher mais de 10, só os mais bem classificados dentre os escolhidos serão mostrados.
+<br>- Você pode mover a carta apertando o botão esquerdo do mouse e movendo o cursor.
+<br><br>
+<B>ANIMAÇÕES</B>
+<br>- Primeiro escolha a categoria e, então, escolha alguns orientistas da lista (max 10). Só os orientistas que traçaram suas rotas estarão estarão habilitados aqui. A seguir, clique em "Ver animação".
+<br>- Comece a animação clicando em "Início", tecla que surgirá no lado direito da tela.
+<br>- Se você quiser, é possível dar a partida impondo uma diferença de tempo entre os atletas, clicando em "Hora de partida". Uma caixa será aberta, na qual você deverá digitar a diferença de tempo em minutos para cada orientista.
+<p align=right class=credits>Translation by Álvaro Filho</p>####
+Obrigado. Sua rota foi salva com sucesso. Volte para a carta.

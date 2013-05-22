@@ -1,0 +1,25 @@
+<B>TEEKONNA JOONISTAMISEKS JA SALVESTAMISEKS</B>
+<br><B>1.</B> <B>Vali õige klass</B> ja otsi kaardil üles stardikolmnurk. Kaardi liigutamiseks võta kaardist kinni hiire vasakut nuppu all hoides ja liiguta kaarti soovitud suunas.
+<br><B>2.</B> Kliki ülemises servas olevat valikut<B>"Joonista teekond"</B>
+<br><B>3.</B> <B>Vali oma nimi</B> nimekirjast.
+<br><B>4.</B> <B>Alusta</B> teekonna joonistamist <B> klikkides stardikolmnurgast väljaspoole</B> oma jooksu suunas. Joonistatud teekond on näha punase joonena. <B>Sinine joon näitab, millisesse kontrollpunkti oled teel</B>. <B>Sinine joon hakkab</B> näitama järgmist kontrollpunkti kui oled klikkinud <B> piisavalt lähedale KP rõnga keskpunktile</B>. Kui oled teekonna joonistamisel <B>eksinud</B>, saad joone sammhaaval tagasi võtta <B>klikkides "Undo"-nupul</B>.
+<br><B>5.</B> Ka joonistamise ajal saad kaarti liigutada, "haarates" kaardist hiire vasakut nuppu all hoides.
+<br><B>6.</B> Joonista <B>kogu teekond stardist finishini.</B>.
+<br><B>7.</B> Kui teekonna jooonistamine on valmis, <B>kirjuta</B> lühike <B>kommentaar</B> oma sooritusest tekstiaknasse ja<B> vajuta "Salvesta teekond" -nuppu</B>.
+<br> <B>8.</B> Peatuste ja mõttepauside tähistamiseks kaardil võid vastavas kohas tekitada viivituse, vajutades Undo nupu kõrval olevat +3sek nuppu vajalik arv kordi. Peatuse pikkust tähistavad sekundid on poolelioleva teekonna kõrval näha. 
+<br> <B>9.</B> Kui lahtris "KP tolerants" on linnuke, siis ei pea teekonna joonistamisel väga täpselt tabama KP keskpunkti.
+<br> <B>10.</B> Lahter "Sujuv skaala" mõjutab kaardipildi teravust "-" zoomi kasutamisel. Linnuke lahtris "Sujuv skaala" tagab teravama kujutise "-" zoomi kasutamise korral ja NB! üksiti koormab rohkem protsessorit. 
+
+<p>
+<B>TEEKONDADE VAATAMINE</B>
+<br>- Kõigepealt vali klass ja siis nimekirjast soovitud võistlejad ning vajuta võistlejate nimekirja all olevat nuppu "Näita teekondi".
+<br>- Korraga näidatakse kuni 10 võistleja teekondi. Kui valid rohkem võistlejaid, siis näidatakse valitutest 10 parimat. 
+<br>- Kaarti saad liigutada kui hoiad hiire vasakut nuppu all ja liigutad kaarti soovitud suunas. 
+<br>- Lahter "Sujuv skaala" mõjutab kaardipildi teravust "-" zoomi kasutamisel. Linnuke lahtris "Sujuv skaala" tagab teravama kujutise "-" zoomi kasutamise korral ja NB! üksiti koormab rohkem protsessorit. 
+<p><B>ANIMATSIOON</B>
+<br>- Kõigepealt vali klass ja siis nimekirjast soovitud võistlejad ning  vajuta võistlejate nimekirja all olevat nuppu "Näita animatsiooni".
+<br>- Animatsiooni käivitamiseks vajuta paremale serva ilmunud nuppu "Start".
+<br>- Lahter "Sujuv skaala" mõjutab kaardipildi teravust "-" zoomi kasutamisel. Linnuke lahtris "Sujuv skaala" tagab teravama kujutise "-" zoomi kasutamise korral ja NB! üksiti koormab rohkem protsessorit. 
+<br>- ??Halutessasi voit antaa lähtöaikojen erot syöttämällä tiedot "Lähtöajat" -painikkeesta avautuviin kenttiin.?? 
+####
+Teekond on salvestatud, suur tänu teekonna joonistamise eest! Kaardilehele naasmiseks vajuta "Back"-nuppu.

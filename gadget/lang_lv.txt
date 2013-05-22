@@ -1,0 +1,20 @@
+Instrukcija:
+<br><B>KÂ ZîMÇT & SAGLABÂT SAVU VEIKTO CEÏU</B>
+<br>1. Atzîmç íeksi "Iezîmçt ceïu", kas atrodas ekrâna augðâ labajâ malâ.
+<br>2. Izvçlies savu grupu un vârdu no sarakstiem, kas parâdâs, kad tiek iezimçts íeksis (skat. punktu 1.).
+<br>3. Atrodi uz kartes starta vietu (trijstûri). Karti var pârvietot nospieþot un turot peles kreiso taustiòu uz kartes un virzot peli vajadzigajâ virzienâ.
+<br>4. Zîmç savu veikto ceïu no starta lîdz pirmajam KP klikðíinot peles kreiso pogu vietâs, kur esat mainîjis skrieðanas virzienu (Programma zîmçs nepârtrauktu lîniju starp punktiem). Zîmçtais celð tiek attçlots SARKANÂ krâsâ. ZILA lînija norâda virzienu uz nâkamo KP. Kad tiek atzîmçts punkts tuvu KP apïa centram, Zilâ lînija sâk norâdit uz nakoðo KP. Ja zîmçjot tikusi pieïauta kïûda, tad paòemt atpakaï vienu vai vairakus punktus var spieþot "Atcelt".
+<br>5. Karti var arî pârvietot, kamçr tiek zimçts celð: Nospied un turi kreiso peles pogu un virzi peli vajadzîgajâ virzienâ.
+<br>6. Pabeidz zîmçt visu savu ceïu no starta lidz finiðam.
+<br>7. Kad sasniegts finiðs, un viss liekas OK, ievadi îsus komentârus laukumâ "Raksti ðeit komentârus" un nospied "Saglabât ceïu".
+<br><br>
+<B>UZZÎMÇTO CEïU SKATîÐANA</B>
+<br>- Vispirms no saraksta izvçlies grupu, tad kâda skrçjçja vârdu (orientieristu vârdiem, kas uzzîmçjuði savus ceïus, priekðâ ir *). Visbeidzot nsopied "Skatît ceïus".
+<br>- Maksimâli 10 dalîbnieku ceïi var tikt attçloti vienlaicîgi. Ja izvçlçsies vairâk par 10 dalîbiekiem, tad tikai pirmo 10 skrçjçju ceïi no saraksta tiks attçloti.
+<br>- Karti var pârvietot  nospieþot un turot peles kreiso taustiòu uz kartes un virzot peli.
+<br><br>
+<B>ANIMÂCIJA</B>
+<br>- Vispirms no saraksta izvçlies grupu, tad kâdus pâris sportistus (max 10)(orientieristu vârdiem, kas uzzîmçjuði savus ceïus, priekðâ ir *). Tad nospied "Skatît animâciju".
+<br>- Animâciju iesâk nospieþot "Sâkt"-pogu, kas parâdisies ekrâna labajâ pusç.
+<p align=right class=credits>Tulkoja Andris Strazdiòð</p>####
+Paldies. Jusu ceïð tika saglabâts veiksmîgi. Nospied WWW pârlûka "Atpakaï"-pogu, lai nokïûtu uz iepriekðçjo lapu.

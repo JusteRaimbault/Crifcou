@@ -1,0 +1,672 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+<head>
+<title>##nimi## - reitit</title>
+<STYLE>
+body{font-family: Verdana, Arial, Helvetica, sans-serif; color: #000000; font-size: 11px; }
+td{font-family: Verdana, Arial, Helvetica, sans-serif; color: #000000; font-size: 11px; }
+th{font-family: Verdana, Arial, Helvetica, sans-serif; color: #FFFFFF; font-size: 13px; }
+.{ font-family: Verdana, Arial, Helvetica, sans-serif; color: #000000; font-size: 11px; }
+H3{ font-family: Verdana, Arial, Helvetica, sans-serif; color: #005578; font-size: 12px; font-weight: bold; }
+a{font-family: Verdana, Arial, Helvetica, sans-serif; color: #FFFFFF; font-size: 10px; }
+.credits{font-family: Verdana, Arial, Helvetica, sans-serif; color: #005578; font-size: 8px; font-weight : bold; }
+</STYLE>
+<!--järjestelmän  copyright j.ryyppö 2003-2004 -->
+<script language=javascript>
+if(document.URL.indexOf('kieli=')<0){document.location=document.URL+"&kieli=";}
+
+</script>
+<link rel="shortcut icon" href="##icon##">
+</head>
+<BODY BGCOLOR="A0A0A0"  marginheight="4" topmargin="4">
+<center>
+<table border="0" cellpadding="0" cellspacing="0"  height="1%" width="100%" bgcolor="#E8E8F0">
+<tr><th colspan=3 bgcolor="#005578" align=left valign=bottom><a href='http://www.routegadget.net/' target=_blank><img src=##logo## height=19 width=200 border=0 title='www.routegadget.net'></a>&nbsp;&nbsp;&nbsp;##nimi## </th></tr>
+<tr><th colspan=3 bgcolor="#005578"  align=right>
+&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;##languages##&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=reitti.##extension##?act=help&kieli=##kieli## target=_blank>Help</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</th></tr></table>
+<applet code=reitti.class codebase="##httppath##" width="100%" height="94%" archive="reitti.jar" alt="Java is disabled or missing">
+<param name=kieli value="##kieli##">
+<param name=extension value="##extension##">
+<param name=dotsize value="10">
+<param name=livedelay value="52">
+<param name=liveloadinterval value="19">
+<param name=fi_1 value="Valitse sarja/rata">
+<param name=fi_2 value="Piirrettävä kilpailija">
+<param name=fi_3 value="Kirjoita kommentit tähän">
+<param name=fi_4 value="Piirrä reittisi">
+<param name=fi_5 value="Undo">
+<param name=fi_6 value="Reittipiirrosten katselu (max 10)">
+<param name=fi_7 value="Reitit">
+<param name=fi_8 value="Rata">
+<param name=fi_9 value="Nimet">
+<param name=fi_10 value="on/off">
+<param name=fi_11 value="Zoom">
+<param name=fi_12 value="Lataa animaatio">
+<param name=fi_13 value="Lataa reitit">
+<param name=fi_14 value="Lataa kommentit">
+<param name=fi_15 value="Poista valinnat">
+<param name=fi_16 value="Lähtöajat">
+<param name=fi_17 value="Start">
+<param name=fi_18 value="Stop">
+<param name=fi_41 value="Pause">
+<param name=fi_19 value="Vauhti +">
+<param name=fi_20 value="Vauhti -">
+<param name=fi_21 value="Et voi tallentaa, koska et ole valinnut omaa nimeäsi">
+<param name=fi_22 value="listasta tai et ole käynyt kaikilla rasteilla,">
+<param name=fi_23 value="Sininen viiva osoittaa mille rastille olet menossa.">
+<param name=fi_24 value="Tarvittaessa peru viivaa painamalla 'undo' -painiketta.">
+<param name=fi_25 value="Sovita">
+<param name=fi_26 value="Tallenna">
+<param name=fi_27 value="Valmis">
+<param name=fi_28 value="Anna kilpailijoiden lähtöaikojen erot minuutteina">
+<param name=fi_29 value="VALMIS!!!  VOIT TALLENTAA PIIRROKSEN.">
+<param name=fi_30 value="Ladataan reitit - odota">
+<param name=fi_31 value="Ladataan animaatio - odota">
+<param name=fi_32 value="Ladataan - odota">
+<param name=fi_33 value="Tallenna reittipiirros">
+<param name=fi_34 value="Kaikki piirtäneet">
+<param name=fi_35 value="Yhteislähtö">
+<param name=fi_36 value="Valok.">
+<param name=fi_37 value="Snap on/off">
+<param name=fi_38 value="Pehmeä">
+<param name=fi_39 value="skaalaus">
+<param name=fi_40 value="Suunnistajan nimi">
+<param name=en_1 value="Choose class/course">
+<param name=en_2 value="Choose your name">
+<param name=en_3 value="Type your comment">
+<param name=en_4 value="Draw your route">
+<param name=en_5 value="Undo">
+<param name=en_6 value="Choose competitors (max 10)">
+<param name=en_7 value="Routes">
+<param name=en_8 value="Course">
+<param name=en_9 value="Names">
+<param name=en_10 value="on/off">
+<param name=en_11 value="Zoom">
+<param name=en_12 value="View animation">
+<param name=en_13 value="View routes">
+<param name=en_14 value="View comments">
+<param name=en_15 value="Deselect all">
+<param name=en_16 value="Starting times">
+<param name=en_17 value="Start">
+<param name=en_18 value="Stop">
+<param name=en_41 value="Pause">
+<param name=en_19 value="Speed +">
+<param name=en_20 value="Speed -">
+<param name=en_21 value="You can not save now. Make sure you have chosen your name">
+<param name=en_22 value="from the name list, you have visited all the controls">
+<param name=en_23 value="and you have entered your finish time if it is asked.">
+<param name=en_24 value="Use the 'undo'-button to undo the last point if necessary.">
+<param name=en_25 value="Fit">
+<param name=en_26 value="Save">
+<param name=en_27 value="Done">
+<param name=en_28 value="Apply start times for the competitors. The unit is minutes.">
+<param name=en_29 value="DONE!!!  YOU MAY NOW SAVE YOUR ROUTE.">
+<param name=en_30 value="Loading routes - please wait">
+<param name=en_31 value="Loading animation - please wait">
+<param name=en_32 value="Loading - please wait">
+<param name=en_33 value="Save route">
+<param name=en_34 value="All classes">
+<param name=en_35 value="Mass start">
+<param name=en_36 value="Photos">
+<param name=en_37 value="Snap on/off">
+<param name=en_38 value="Smooth">
+<param name=en_39 value="scaling">
+<param name=en_40 value="Your name">
+<param name=no_1 value="Velg klasse/løype">
+<param name=no_2 value="Velg ditt navn">
+<param name=no_3 value="Skriv din kommentar">
+<param name=no_4 value="Tegn inn løpstraseen din">
+<param name=no_5 value="Angre">
+<param name=no_6 value="Velg løpstraseer (max 10)">
+<param name=no_7 value="Løpstraseer">
+<param name=no_8 value="Løype">
+<param name=no_9 value="Navn">
+<param name=no_10 value="av/på">
+<param name=no_11 value="Zoom">
+<param name=no_12 value="Vis animasjon">
+<param name=no_13 value="Vis løpstraseer">
+<param name=no_14 value="Vis kommentarer">
+<param name=no_15 value="Velg ingen">
+<param name=no_16 value="Starttider">
+<param name=no_17 value="Start">
+<param name=no_18 value="Stopp">
+<param name=no_41 value="Pause">
+<param name=no_19 value="Hastighet +">
+<param name=no_20 value="Hastighet -">
+<param name=no_21 value="Du kan ikke lagre nå. Sjekk at du har valgt navnet ditt">
+<param name=no_22 value="fra navnelisten, og at du har vært innom alle postene.">
+<param name=no_23 value="Den blå streken peker mot neste post.">
+<param name=no_24 value="Bruk 'angre'-knappen for angre det siste punktet om nødvendig.">
+<param name=no_25 value="Tilpass">
+<param name=no_26 value="Lagre">
+<param name=no_27 value="Ferdig">
+<param name=no_28 value="Sett starttider for løperne. Enheten er minutter">
+<param name=no_29 value="FERDIG!!! NÅ DU KAN LAGRE LØPSTRASEEN DIN.">
+<param name=no_30 value="Åpner løpstraseer - vennligst vent">
+<param name=no_31 value="Åpner animasjon - vennligst vent">
+<param name=no_32 value="Åpner - vennligst vent">
+<param name=no_33 value="Lagre løpstrasé">
+<param name=no_34 value="Alle klasser">
+<param name=no_35 value="Mass start">
+<param name=no_36 value="Photos">
+<param name=no_37 value="Snapon/off">
+<param name=no_38 value="Smooth">
+<param name=no_39 value="scaling">
+<param name=no_40 value="Ditt navn">
+<param name=es_1 value="Selecciona categoría/circuito">
+<param name=es_2 value="Choose your name">
+<param name=es_3 value="Teclea tus comentarios">
+<param name=es_4 value="Dibuja tu recorrido">
+<param name=es_5 value="Deshacer">
+<param name=es_6 value="Selecciona corredores (máx 20)">
+<param name=es_7 value="Recorridos">
+<param name=es_8 value="Circuitos">
+<param name=es_9 value="Nombres">
+<param name=es_10 value="on/off">
+<param name=es_11 value="Zoom">
+<param name=es_12 value="Ver animación">
+<param name=es_13 value="Ver recorridos">
+<param name=es_14 value="Ver comentarios">
+<param name=es_15 value="Deseleccionar todo">
+<param name=es_16 value="Horas de salida">
+<param name=es_17 value="Start">
+<param name=es_18 value="Stop">
+<param name=es_41 value="Pause">
+<param name=es_19 value="Speed +">
+<param name=es_20 value="Speed -">
+<param name=es_21 value="You can not save now. Make sure you have chosen your name">
+<param name=es_22 value="from the name list, you have visited all the controls">
+<param name=es_23 value="and you have entered your finish time if it is asked.">
+<param name=es_24 value="Use the 'undo'-button to undo the last point if necessary.">
+<param name=es_25 value="Fit">
+<param name=es_26 value="Save">
+<param name=es_27 value="Done">
+<param name=es_28 value="Apply start times for the competitors. The unit is minutes.">
+<param name=es_29 value="DONE!!!  YOU MAY NOW SAVE YOUR ROUTE.">
+<param name=es_30 value="Loading routes - please wait">
+<param name=es_31 value="Loading animation - please wait">
+<param name=es_32 value="Loading - please wait">
+<param name=es_33 value="Grabar recorrido">
+<param name=es_34 value="Todas las categorias">
+<param name=es_35 value="Salida en masa">
+<param name=es_36 value="Photos">
+<param name=es_37 value="Snap on/off">
+<param name=es_38 value="Smooth">
+<param name=es_39 value="scaling">
+<param name=es_40 value="Your name">
+<param name=fr_1 value="Choisir la catégorie/course">
+<param name=fr_2 value="Choisir ton nom">
+<param name=fr_3 value="Ecrit tes commentaires ici">
+<param name=fr_4 value="Trace ta course">
+<param name=fr_5 value="Annuler">
+<param name=fr_6 value="Choirir les coureurs (maximum 10)">
+<param name=fr_7 value="Route">
+<param name=fr_8 value="Course">
+<param name=fr_9 value="Nom">
+<param name=fr_10 value="on/off">
+<param name=fr_11 value="Zoom">
+<param name=fr_12 value="Lancer l'animation">
+<param name=fr_13 value="Lancer la route">
+<param name=fr_14 value="Lancer les commentaires">
+<param name=fr_15 value="Annuler le choix">
+<param name=fr_16 value="Heure de départ">
+<param name=fr_17 value="Départ">
+<param name=fr_18 value="Stop">
+<param name=fr_41 value="Pause">
+<param name=fr_19 value="Vitesse +">
+<param name=fr_20 value="Vitesse -">
+<param name=fr_21 value="Tu ne peux sauvegarder, car vous n'avez pas choisi votre nom">
+<param name=fr_22 value="depuis la liste ou vous n'avez pas trouver tous vos postes,">
+<param name=fr_23 value="La ligne bleu montre vers quel poste vous aller en ce moment.">
+<param name=fr_24 value="Utilisez le bouton "annuler" pour revenir au dernier poste.">
+<param name=fr_25 value="Réduire">
+<param name=fr_26 value="Sauvegarder">
+<param name=fr_27 value="Fonctionnel">
+<param name=fr_28 value="Donnez les intervales entre les départs (en minute)">
+<param name=fr_29 value="FONCTIONNEL!!!  VOUS POUVEZ SAUVEGARDER LES ROUTES.">
+<param name=fr_30 value="Télecharger les choix d'itinéraires - patientez">
+<param name=fr_31 value="Télecharger les animations - patientez">
+<param name=fr_32 value="Télechargement - patientez">
+<param name=fr_33 value="Sauvegardez votre choix d'itinéraire">
+<param name=fr_34 value="Tout le monde a tracé ses choix d'itinéraires">
+<param name=fr_35 value="Mass start">
+<param name=fr_36 value="Photos">
+<param name=fr_37 value="Snap on/off">
+<param name=fr_38 value="Smooth">
+<param name=fr_39 value="scaling">  
+<param name=fr_40 value="Nom">
+<param name=ca_1 value="Selecciona categoria/circuit">
+<param name=ca_2 value="Tria el teu nom">
+<param name=ca_3 value="Escriu els teus comentaris">
+<param name=ca_4 value="Dibuixa el teu recorregut">
+<param name=ca_5 value="Desfer">
+<param name=ca_6 value="Selecciona corredors (màx 20)">
+<param name=ca_7 value="Recorreguts">
+<param name=ca_8 value="Circuits">
+<param name=ca_9 value="Noms">
+<param name=ca_10 value="on/off">
+<param name=ca_11 value="Zoom">
+<param name=ca_12 value="Veure animació">
+<param name=ca_13 value="Veure recorreguts">
+<param name=ca_14 value="Veure comentaris">
+<param name=ca_15 value="Deseleccionar tot">
+<param name=ca_16 value="Hores de sortida">
+<param name=ca_17 value="Start">
+<param name=ca_18 value="Stop">
+<param name=ca_41 value="Pause">
+<param name=ca_19 value="+ ràpid">
+<param name=ca_20 value="- ràpid">
+<param name=ca_21 value="No pots enregistrar ara. Assegura't que has seleccionat el teu nom">
+<param name=ca_22 value="de la llista, i que has passat per tots els controls.">
+<param name=ca_23 value="La linía blava apunta al següent control.">
+<param name=ca_24 value="Fes servir el botó 'Desfer'- desfà  l'últim punt.">
+<param name=ca_25 value="Ajusta">
+<param name=ca_26 value="Enregistra">
+<param name=ca_27 value="Fet">
+<param name=ca_28 value="Aplicar temps de sortida per tots els corredors.Les unitats sÃ³n minuts.">
+<param name=ca_29 value="FET!!!  ARA POTS ENREGISTRAR EL TEU RECORREGUT.">
+<param name=ca_30 value="Carregant circuits - espera un moment, si us plau.">
+<param name=ca_31 value="Carregant animaciÃ³ - espera un moment, si us plau.">
+<param name=ca_32 value="Carregant - espera un moment, si us plau.">
+<param name=ca_33 value="Enregistrar recorregut">
+<param name=ca_34 value="Totes les categoriess">
+<param name=ca_35 value="Sortida en massa">
+<param name=ca_36 value="Fotos">
+<param name=ca_37 value="Snap on/off">
+<param name=ca_38 value="Escalat">
+<param name=ca_39 value="progressiu/suau">
+<param name=ca_40 value="Nom">
+<param name=se_1 value="Välj klass/bana">
+<param name=se_2 value="Tävlande">
+<param name=se_3 value="Skriv kommentarer här">
+<param name=se_4 value="Rita dina vägval">
+<param name=se_5 value="Undo">
+<param name=se_6 value="Se vägval (max 10)">
+<param name=se_7 value="Vägval">
+<param name=se_8 value="Bana">
+<param name=se_9 value="Namn">
+<param name=se_10 value="on/off">
+<param name=se_11 value="Zoom">
+<param name=se_12 value="Ladda ner animation">
+<param name=se_13 value="Ladda ner vägval">
+<param name=se_14 value="Ladda ner kommentarer">
+<param name=se_15 value="Ta bort val">
+<param name=se_16 value="Starttider">
+<param name=se_17 value="Start">
+<param name=se_18 value="Stop">
+<param name=se_41 value="Pause">
+<param name=se_19 value="Hastighet +">
+<param name=se_20 value="Hastighet -">
+<param name=se_21 value="Du kan ej spara eftersom du inte valt ditt eget namn">
+<param name=se_22 value="i förteckningen eller besökt alla kontroller,">
+<param name=se_23 value="Den blåa linjen pekar mot följande kontroll.">
+<param name=se_24 value="Vid behov kan du återkalla linjen genom att trycka på 'undo' -knappen.">
+<param name=se_25 value="Anpassa">
+<param name=se_26 value="Spara">
+<param name=se_27 value="Färdig">
+<param name=se_28 value="Ge deltagarnas starttidsskillnader som minuter">
+<param name=se_29 value="KLAR!!! DU KAN SPARA VÄGVALET.">
+<param name=se_30 value="Laddar ner vägval - vänta">
+<param name=se_31 value="Laddar ner animation - vänta">
+<param name=se_32 value="Laddar ner - vänta">
+<param name=se_33 value="Spara vägval">
+<param name=se_34 value="Visa alla som ritat">
+<param name=se_35 value="Samstart">
+<param name=se_36 value="Foto">
+<param name=se_37 value="Snap on/off">
+<param name=se_38 value="Mjuk">
+<param name=se_39 value="skalning">
+<param name=se_40 value="Orienterarens namn">
+<param name=ee_1 value="Vali klass/rada">
+<param name=ee_2 value="Vali võistleja">
+<param name=ee_3 value="Lisa oma kommentaar">
+<param name=ee_4 value="Joonista teekond">
+<param name=ee_5 value="Undo">
+<param name=ee_6 value="Kelle teekonnad (max 10)">
+<param name=ee_7 value="Teekonnad">
+<param name=ee_8 value="Rajad">
+<param name=ee_9 value="Nimed">
+<param name=ee_10 value="on/off">
+<param name=ee_11 value="Zoom">
+<param name=ee_12 value="Näita animatsiooni">
+<param name=ee_13 value="Näita teekondi">
+<param name=ee_14 value="Näita kommentaare">
+<param name=ee_15 value="Tühista valikud">
+<param name=ee_16 value="Stardiajad">
+<param name=ee_17 value="Start">
+<param name=ee_18 value="Stop">
+<param name=ee_41 value="Paus">
+<param name=ee_19 value="Tempo +">
+<param name=ee_20 value="Tempo -">
+<param name=ee_21 value="Ei saa salvestada, kuna ei ole valinud oma nime">
+<param name=ee_22 value="nimekirjast või ei ole käinud kõigis kontrollpunktides,">
+<param name=ee_23 value="sinine joon näitab, millisesse kontrollpunkti oled teel.">
+<param name=ee_24 value="Joone tühistamiseks vajuta 'undo' (sammhaaval)">
+<param name=ee_25 value="Sobita">
+<param name=ee_26 value="Salvesta">
+<param name=ee_27 value="Valmis">
+<param name=ee_28 value="Näita võistlejate stardiaegade vahe minutites.">
+<param name=ee_29 value="VALMIS!!!  VÕID TEEKONNA SALVESTADA.">
+<param name=ee_30 value="Laadin teekonnad - oota">
+<param name=ee_31 value="Laadin animatsiooni - oota">
+<param name=ee_32 value="Laadin - oota">
+<param name=ee_33 value="Salvesta teekond">
+<param name=ee_34 value="Kõik joonistanud">
+<param name=ee_35 value="Ühisstart">
+<param name=ee_36 value="Foto">
+<param name=ee_37 value="KP tolerants on/off">
+<param name=ee_38 value="Sujuv">
+<param name=ee_39 value="skaala">
+<param name=ee_40 value="Orienteeruja nimi">
+<param name=de_1 value="Klasse/Bahn wählen">
+<param name=de_2 value="Name wählen">
+<param name=de_3 value="Kommentar eingeben">
+<param name=de_4 value="Route einzeichnen">
+<param name=de_5 value="zurück">
+<param name=de_6 value="Wettkämpfer wählen (max. 10)">
+<param name=de_7 value="Routen">
+<param name=de_8 value="Bahn">
+<param name=de_9 value="Namen">
+<param name=de_10 value="ein/aus">
+<param name=de_11 value="Zoom">
+<param name=de_12 value="Animation zeigen">
+<param name=de_13 value="Routen zeigen">
+<param name=de_14 value="Kommentare zeigen">
+<param name=de_15 value="Demarkieren">
+<param name=de_16 value="Startzeiten">
+<param name=de_17 value="Start">
+<param name=de_18 value="Stop">
+<param name=de_41 value="Pause">
+<param name=de_19 value="Tempo +">
+<param name=de_20 value="Tempo -">
+<param name=de_21 value="Speichern nicht möglich. Bitte einen Namen aus der Liste">
+<param name=de_22 value="auswählen und zu jedem Posten eine Route einzeichnen.">
+<param name=de_23 value="Die blaue Linie zeigt zum nächsten Posten.">
+<param name=de_24 value="Benutze den 'zuräck'-Button um die letzte Aktion rückgängig zu machen.">
+<param name=de_25 value="Anpassen">
+<param name=de_26 value="Speichern">
+<param name=de_27 value="Fertig">
+<param name=de_28 value="Startzeiten vergeben. Einheit: Minuten.">
+<param name=de_29 value="Fertig! Du kannst jetzt deine Route speichern.">
+<param name=de_30 value="Routen werden geladen - bitte warten">
+<param name=de_31 value="Animation wird geladen - bitte warten">
+<param name=de_32 value="Lädt - bitte warten">
+<param name=de_33 value="Route speichern">
+<param name=de_34 value="Alle Klassen">
+<param name=de_35 value="Massenstart">
+<param name=de_36 value="Fotos">
+<param name=de_37 value="Snap ein/aus">
+<param name=de_38 value="Weich-">
+<param name=de_39 value="zeichnen">
+<param name=de_40 value="Dein Name">
+
+<param name=lt_1 value="Pasirinkite grupæ/distancijà">
+<param name=lt_2 value="Pasirinkite vardà">
+<param name=lt_3 value="Áraðykite savo komentarà">
+<param name=lt_4 value="Nubrëþkite savo kelià">
+<param name=lt_5 value="Atðaukti">
+<param name=lt_6 value="Pasirinkite dalyvius (max 10)">
+<param name=lt_7 value="Keliai">
+<param name=lt_8 value="Distancijos">
+<param name=lt_9 value="Vardai">
+<param name=lt_10 value="áj / iðj">
+<param name=lt_11 value="Mastelis">
+<param name=lt_12 value="Rodyti animacijà">
+<param name=lt_13 value="Rodyti kelià">
+<param name=lt_14 value="Rodyti komentarà">
+<param name=lt_15 value="Nuimti þymas">
+<param name=lt_16 value="Starto laikas">
+<param name=lt_17 value="Startas">
+<param name=lt_18 value="Stop">
+<param name=lt_41 value="Pauzë">
+<param name=lt_19 value="Greitis +">
+<param name=lt_20 value="Greitis -">
+<param name=lt_21 value="Jûs dabar negalite iðsaugoti. Ásitikinkite, ar teisingai">
+<param name=lt_22 value="pasirinkote savo vardà ið sàraðo, ar nurodëte kiekvieno">
+<param name=lt_23 value="punkto bei finiðo atsiþymëjimo laikus.(jei to praðë sistema)">
+<param name=lt_24 value="Naudokite mygtukà 'Atðaukti', jei norite iðvalyti paskutinæ atkarpà">
+<param name=lt_25 value="Parinkti">
+<param name=lt_26 value="Áraðyti">
+<param name=lt_27 value="Uþbaigti">
+<param name=lt_28 value="Patvirtinti dalyviø starto laikus. Minutëmis.">
+<param name=lt_29 value="BAIGTA!!!  DABAR GALITE IÐSAUGOTI SAVO KELIÀ.">
+<param name=lt_30 value="Kraunami keliai - praðome palaukti">
+<param name=lt_31 value="Kraunama animacija - praðome palaukti">
+<param name=lt_32 value="Krauname - praðome palaukti">
+<param name=lt_33 value="Iðsaugoti">
+<param name=lt_34 value="Visos distancijos">
+<param name=lt_35 value="Bendras startas">
+<param name=lt_36 value="Nuotraukos">
+<param name=lt_37 value="Paèiupti áj / iðj">
+<param name=lt_38 value="Sulyginti">
+<param name=lt_39 value="mastelá">
+<param name=lt_40 value="Vardas Pavardë">
+
+<param name=ee_40 value="Orienteeruja nimi">
+<param name=lv_1 value="Izve-lies grupu/distanci">
+<param name=lv_2 value="Izve-lies savu va-rdu">
+
+<param name=lv_3 value="Raksti šeit komenta-rus">
+<param name=lv_4 value="Iezi-me-t cel,u">
+<param name=lv_5 value="Atcelt">
+<param name=lv_6 value="Izve-lies sportistus (max 10)">
+<param name=lv_7 value="Cel,i">
+<param name=lv_8 value="Distance">
+<param name=lv_9 value="Va-rdi">
+<param name=lv_10 value="ir/nav">
+<param name=lv_11 value="Me-rogs">
+<param name=lv_12 value="Skati-t anima-ciju">
+<param name=lv_13 value="Skati-t cel,us">
+<param name=lv_14 value="Skati-t komenta-rus">
+<param name=lv_15 value="Deselect all">
+<param name=lv_16 value="Starta laiki">
+<param name=lv_17 value="Sa-kt">
+<param name=lv_18 value="Beigt">
+<param name=lv_41 value="Pauze">
+
+<param name=lv_19 value="A-trums +">
+<param name=lv_20 value="A-trums -">
+<param name=lv_21 value="Datus nevaru saglaba-t. Pa-rliecinaties, ka esat izve-le-jies savu va-rdu">
+<param name=lv_22 value="no saraksta un, ka esat apmekle-jis visus KP.">
+<param name=lv_23 value="Zila- li-nija nora-da uz na-kamo KP.">
+<param name=lv_24 value="Lieto 'Atcelt'-pogu, lai pan,emtu soli atpakal,."> 
+<param name=lv_25 value="Fit">
+<param name=lv_26 value="Saglaba-t">
+<param name=lv_27 value="Pabeigts">
+<param name=lv_28 value="N,emt ve-ra- sportistu starta minu-tes. Vieni-bas minu-te-s.">
+<param name=lv_29 value="PABEIGTS!!! VARAT TAGAD SAGLABA-T SAVU CEL,U.">
+<param name=lv_30 value="Iela-de- cel,us - uzgaidiet">
+<param name=lv_31 value="Iela-de- anima-cijas - uzgaidiet">
+<param name=lv_32 value="Iela-de - uzgaidiet">
+<param name=lv_33 value="Saglaba-t cel,u">
+<param name=lv_34 value="Visas grupas">
+<param name=lv_35 value="Massu starts">
+
+<param name=lv_36 value="Fotogra-fijas">
+<param name=lv_37 value="KP precizita-te">
+<param name=lv_38 value="Labais">
+<param name=lv_39 value="zooms">
+<param name=lv_40 value="Tavs va-rds">
+
+<param name=ru_1 value="Âûáåðèòå ãðóïïó/äèñòàíöèþ">
+<param name=ru_2 value="Âûáåðèòå Âàøå èìÿ">
+<param name=ru_3 value="Ââåäèòå Âàø êîìåíòàðèé">
+<param name=ru_4 value="Íàðèñóéòå Âàø ïóòü">
+<param name=ru_5 value="Îòìåíà">
+<param name=ru_6 value="Âûáåðèòå ó÷àñòíèêîâ (ìàêñèìóì 10)">
+<param name=ru_7 value="Ïóòè">
+<param name=ru_8 value="Äèñòàíöèè">
+<param name=ru_9 value="Èìåíà">
+<param name=ru_10 value="âêë/âûê">
+<param name=ru_11 value="Ìàñøòàá">
+<param name=ru_12 value="Ïîêàçàòü àíèìàöèþ">
+<param name=ru_13 value="Ïîêàçàòü ïóòè">
+<param name=ru_14 value="Ïîêàçàòü êîììåíòèðèè">
+<param name=ru_15 value="Îòìåíèòü âûáîð">
+<param name=ru_16 value="Âðåìÿ ñòàðòà">
+<param name=ru_17 value="Ñòàðò">
+<param name=ru_18 value="Ñòîï">
+<param name=ru_41 value="Ïàóçà">
+<param name=ru_19 value="Ñêîðîñòü +">
+<param name=ru_20 value="Ñêîðîñòü -">
+<param name=ru_21 value="Âû íå ìîæåòå ñîõðàíèòñÿ ñåé÷àñ. Óáåäèòåñü ÷òî Âû ïðàâèëüíî âûáðàëè">
+<param name=ru_22 value="Âûøå èìÿ â ñïèñêå èìåí, ÷òî óêàçàëè âðåìÿ ïîñåùåíèÿ âñåõ ÊÏ">
+<param name=ru_23 value="è ââåëè âðåìÿ ôèíèøà åñëè Âàñ îá ýòîì ñïðîñèëà ñèñòåìà.">
+<param name=ru_24 value="Èñïîëüçóéòå êíîïêó 'Îòìåíà' - åñëè Âû õîòèòå î÷èñòèòü ïîñëåäíèé îòðåçîê.">
+<param name=ru_25 value="Ïîäîáðàòü">
+<param name=ru_26 value="Ñîõðàíèòü">
+<param name=ru_27 value="Çàâåðøèòü">
+<param name=ru_28 value="Óêàçàòü ñòàðòîâîå âðåìÿ ó÷àñòíèêàì (â ìèíóòàõ).">
+<param name=ru_29 value="ÃÎÒÎÂÎ!!! ÑÅÉ×ÀÑ ÂÛ ÌÎÆÅÒÅ ÑÎÕÐÀÍÈÒÜ ÑÂÎÉ ÏÓÒÜ.">
+<param name=ru_30 value="Çàãðóçêà ïóòåé - ïîæàëóéñòà ïîäîæäèòå">
+<param name=ru_31 value="Çàãðóçêà àíèìàöèè - ïîæàëóéñòà ïîäîæäèòå">
+<param name=ru_32 value="Çàãðóçêà - ïîæàëóéñòà ïîäîæäèòå">
+<param name=ru_33 value="Ñîõðàíèòü ïóòü">
+<param name=ru_34 value="Âñå äèñòàíöèè">
+<param name=ru_35 value="Îáùèé ñòàðò">
+<param name=ru_36 value="Ôîòîãðàôèè">
+<param name=ru_37 value="Îáðûâ âêë/âûê">
+<param name=ru_38 value="Ñãëàæ.">
+<param name=ru_39 value="ìàñø.">
+<param name=ru_40 value="Âàøå èìÿ">
+
+<param name=he_1 value="áçø ÷áåöä/îñìåì">
+<param name=he_2 value="áçø/ä÷ìã ùí">
+<param name=he_3 value="ä÷ìã äòøåú">
+<param name=he_4 value="öééø àú äîñìåì ùìê">
+<param name=he_5 value="áèì">
+<param name=he_6 value="áçø îùúúôéí (î÷ñ 10)">
+<param name=he_7 value="îñìåìéí">
+<param name=he_8 value="÷áåöåú">
+<param name=he_9 value="ùîåú">
+<param name=he_10 value="îåôòì/ëáåé">
+<param name=he_11 value="îøç÷ îúöåâä">
+<param name=he_12 value="äöâ àðéîöéä">
+<param name=he_13 value="äöâ îñìåìéí">
+<param name=he_14 value="äöâ äòøåú">
+<param name=he_15 value="áèì àú ëì äáçéøåú">
+<param name=he_16 value="æîðé äúçìä">
+<param name=he_17 value="äøõ">
+<param name=he_18 value="òöåø">
+<param name=he_41 value="äùää">
+<param name=he_19 value="îäéøåú +">
+<param name=he_20 value="îäéøåú -">
+<param name=he_21 value="àúä éëåì ìùîåø òëùéå, ååãà ùáçøú àú ùîê">
+<param name=he_22 value="îäøùéîä, òáøú áëì ð÷åãåú äáé÷åøú">
+<param name=he_23 value="åä÷ìãú àú æîï äñéåí ëôé ùäúá÷ùú">
+<param name=he_24 value="äùúîù áìçöï 'áèì' ëãé ìîçå÷ àú äð÷åãä äàçøåðä, àí ðãøù">
+<param name=he_25 value="äúàí">
+<param name=he_26 value="ùîåø">
+<param name=he_27 value="ñééí">
+<param name=he_28 value="Apply start times for the competitors. The unit is minutes.">
+<param name=he_29 value="áåöò!!!  àúä éëåì ìùîåø àú äîñìåì ùìê.">
+<param name=he_30 value="èåòï îñìåìéí - àðà äîúï">
+<param name=he_31 value="èåòï àðéîöéä - àðà äîúï">
+<param name=he_32 value="èåòï - àðà äîúï">
+<param name=he_33 value="ùîåø îñìåì">
+<param name=he_34 value="ëì ä÷áåöåú">
+<param name=he_35 value="äúçì áéçã">
+<param name=he_36 value="úîåðåú">
+<param name=he_37 value="äöîã îåôòì/ëáåé">
+<param name=he_38 value="äçì÷">
+<param name=he_39 value="÷ð'î">
+<param name=he_40 value="ùîê">
+
+<param name=pt_1 value="Categoria ou Nr Perc">
+<param name=pt_2 value="Selecione seu nome">
+<param name=pt_3 value="Escreva seus comentários aqui">
+<param name=pt_4 value="Trace sua rota">
+<param name=pt_5 value="Voltar">
+<param name=pt_6 value="Escolha os orientistas (max 10)">
+<param name=pt_7 value="Rota">
+<param name=pt_8 value="Percurso">
+<param name=pt_9 value="Nome">
+<param name=pt_10 value="on/off">
+<param name=pt_11 value="Zoom">
+<param name=pt_12 value="Ver animação">
+<param name=pt_13 value="Ver rotas">
+<param name=pt_14 value="Ver comentários">
+<param name=pt_15 value="Cancelar seleção">
+<param name=pt_16 value="Hora de partida">
+<param name=pt_17 value="Iniciar">
+<param name=pt_18 value="Parar">
+<param name=pt_41 value="Pausar">
+<param name=pt_19 value=">>>">
+<param name=pt_20 value="<<<">
+<param name=pt_21 value="Você não pode salvar. Certifique-se de ter selecionado">
+<param name=pt_22 value="seu nome na lista e ter passado em todos os pontos.">
+<param name=pt_23 value="A linha vermelha mostra onde você está agora.">
+<param name=pt_24 value="Use o comando 'voltar' para voltar ao último ponto.">
+<param name=pt_25 value="Fit">
+<param name=pt_26 value="Salvar">
+<param name=pt_27 value="Pronto">
+<param name=pt_28 value="Insira os intervalos de partida em minutos.">
+<param name=pt_29 value="PRONTO!!! AGORA VOCÊ PODE SALVAR SUA ROTA.">
+<param name=pt_30 value="Salvando as rotas - espere">
+<param name=pt_31 value="Preparando a animação- espere">
+<param name=pt_32 value="Salvando - calma">
+<param name=pt_33 value="Salvar rota">
+<param name=pt_34 value="Todas categorias">
+<param name=pt_35 value="Todos juntos">
+<param name=pt_36 value="Fotos">
+<param name=pt_37 value="Snap on/off">
+<param name=pt_38 value="Melhor">
+<param name=pt_39 value="resolução">
+<param name=pt_40 value="Seu nome">
+
+<param name=br_1 value="Categoria ou Nr Perc">
+<param name=br_2 value="Selecione seu nome">
+<param name=br_3 value="Escreva seus comentários aqui">
+<param name=br_4 value="Trace sua rota">
+<param name=br_5 value="Voltar">
+<param name=br_6 value="Escolha os orientistas (max 10)">
+<param name=br_7 value="Rota">
+<param name=br_8 value="Percurso">
+<param name=br_9 value="Nome">
+<param name=br_10 value="on/off">
+<param name=br_11 value="Zoom">
+<param name=br_12 value="Ver animação">
+<param name=br_13 value="Ver rotas">
+<param name=br_14 value="Ver comentários">
+<param name=br_15 value="Cancelar seleção">
+<param name=br_16 value="Hora de partida">
+<param name=br_17 value="Iniciar">
+<param name=br_18 value="Parar">
+<param name=br_41 value="Pausar">
+<param name=br_19 value=">>>">
+<param name=br_20 value="<<<">
+<param name=br_21 value="Você não pode salvar. Certifique-se de ter selecionado">
+<param name=br_22 value="seu nome na lista e ter passado em todos os pontos.">
+<param name=br_23 value="A linha vermelha mostra onde você está agora.">
+<param name=br_24 value="Use o comando 'voltar' para voltar ao último ponto.">
+<param name=br_25 value="Fit">
+<param name=br_26 value="Salvar">
+<param name=br_27 value="Pronto">
+<param name=br_28 value="Insira os intervalos de partida em minutos.">
+<param name=br_29 value="PRONTO!!! AGORA VOCÊ PODE SALVAR SUA ROTA.">
+<param name=br_30 value="Salvando as rotas - espere">
+<param name=br_31 value="Preparando a animação- espere">
+<param name=br_32 value="Salvando - calma">
+<param name=br_33 value="Salvar rota">
+<param name=br_34 value="Todas categorias">
+<param name=br_35 value="Todos juntos">
+<param name=br_36 value="Fotos">
+<param name=br_37 value="Snap on/off">
+<param name=br_38 value="Melhor">
+<param name=br_39 value="resolução">
+<param name=br_40 value="Seu nome">
+<param name="ratavari" value="220,0,220">
+<param name="tvari" value="232,232,240">
+<param name="vvari" value="0,85,120">
+<param name="pvari" value="0,0,255">
+<param name="hvari" value="255,0,0">  
+<param name="smoothscaling" value="no">
+<param name="karttaid" value="##karttaid##">
+<param name="id" value="##id##">
+<param name="ratapiirto" value="##ratapiirto##">
+##muu##
+<p><center>If you see this, you need to install Java VM <br>
+Go to  <a href="http://www.java.com/en/download/download_the_latest.jsp">www.java.com</a>
+</center></applet></body>
+</html>

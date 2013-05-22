@@ -1,0 +1,32 @@
+<P>Instrucciones: <br><B>COMO DIBUJAR Y GRABAR TU RECORRIDO</B><br>1. Pulsa en "Dibuja
+tu recorrido", que está en la parte superior derecha de la pantalla.. <br>2. Selecciona
+la categoría y nombre de la lista, que aparecerá cuando hagas la selección anterior.<br>3.
+Sitúa el punto de salida (el triángulo) sobre el mapa. Puedes mover el
+mapa marcándolo y manteniendo presionado el botón izquierdo del ratón,
+mientras mueves el cursor en la dirección deseada.<br>4. Dibuja tu recorrido desde
+el punto de salida hasta el primer control marcando con el botón izquierdo los lugares
+donde has cambiado de dirección (el programa creará una línea continua entre los
+puntos que hayas dibujado). Tu recorrido se dibujará en rojo. La línea azul muestra la
+dirección del siguiente control. Cuando hayas creado un punto cercano al
+centro del circulo marcará el control, y la línea azul apuntará
+hacia el siguiente. Si te equivocas, puedes volver atrás uno o
+más puntos presionando "Deshacer". <br>5. También puedes
+mover el mapa mientras dibujas el recorrido. Presiona y mantén el botón izquierdo
+y mueve el ratón en la dirección deseada.<br>6. Dibuja tu recorrido entero desde
+el inicio hacia el final<br>7. Cuando hayas alcanzado el final, para finalizar , teclea tus comentarios en "Comentarios" y pulsa
+en "Grabar recorrido".</P><P><b>VISUALIZAR RECORRIDOS</b><br>- Primero selecciona una
+categoría, y varios corredores de la lista (Sólo corredores
+que hayan dibujado sus recorridos aparecerán aquí). Finalmente selecciona "Ver
+recorridos". <br>- Máximo 10 corredores pueden mostrarse al mismo tiempo.
+Si seleccionas más de 10 corredores, sólo aparecerán los 10 mejores..
+<br>- Puedes mover el mapa manteniendo presionado el botón izquierdo del ratón
+y moviéndolo en la dirección que desees.<br><br> <B>ANIMACIONES</B><br>-
+Primero selecciona una categoría, y después varios competidores de la
+lista (máx 10). Sólo los competidores que hayan dibujado sus recorrido apareceran
+aquí. A continuación selecciona "Ver animación". <br>- Arranca
+la animación pulsando el botón de "Start" en el lado
+derecho de la pantalla.<br>- Si quieres, puedes aplicar tiempos de salida diferentes 
+pulsando "Horas de salida". Una pantalla se abrirá, donde se
+pueden introducir horas de salida en minutos para cada corredor</P><P align=right class=credits>Traducido
+por Dani Rodriguez</P><P>#### Gracias. Tu recorrido ha sido grabado. Presiona "Atrás"
+en tu navegador para volver a la página anterior.</P>

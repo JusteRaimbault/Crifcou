@@ -1,0 +1,22 @@
+Instruksjoner:
+<p>
+<B>TEGNE OG LAGRE DIN LØPSTRASÉ</B>
+<br>1. Merk av i boksen "Tegn inn løpstraseen din". Den finner du i øvre høyre hjørne av skjermen.
+<br>2. Velg klassen din og navnet ditt fra listene som dukker opp når du merker av i boksen.
+<br>3. Finn startpunktet (trekanten) på kartet. Du kan flytte på kartet ved å trykke og holde nede venstre museknapp et eller annet sted på kartet og flytte musen i ønsket retning.
+<br>4. Tegn din løpstrasé fra start til første post ved å klikke med venstre museknapp på de stedene du skiftet retning. (Programmet tegner en sammenhengende trasé mellom disse punktene som du plasserer. Løpstraseen din tegnes med rød farge. Den blå streken peker mot neste post. Når du har laget et punkt nær midten av ringen som markerer posten, bytter den blå streken til neste post. Hvis du gjør en feil, kan du når som helst gå tilbake et punkt eller flere ved å trykke "angre".
+<br>5. Du kan også flytte på kartet mens du tegner løpstraseen: Klikk og hold nede venstre museknapp og flytt musen i ønsket retning.
+<br>6. Tegn hele løpstraseen din fra start til mål.7. Når du har kommet til mål og er fornøyd med resultatet, kan du skrive noen korte kommentarer i kommentarfeltet. Til slutt trykker du på "Lagre løpstrasé".
+<br><br>
+<B>STUDERE LØPSTRASEER</B>
+<br>- Velg først en klasse, og velg så noen løpere fra listen. (Listen viser kun de løperne som har tegnet inn sin løpstrasé.) Deretter trykker du på "Vis løpstraseer".
+<br>- Max 10 løpere kan vises på en gang. Hvis du velger mer enn 10 løpere, vil bare de 10 første på listen vises.
+<br>- Du kan flytte på kartet ved å holde nede venstre museknapp og flytte musen i ønsket retning.
+<br><br>
+<B>ANIMASJONER</B>
+<br>- Velg først en klasse, og velg så noen løpere fra listen (max 10). (Listen viser kun de løperne som har tegnet inn sin løpstrasé.) Deretter trykker du på "Vis animasjon". 
+<br>- Start animasjonen ved å trykke på "Start"-knappen, som vil dukke opp på høyre side av skjermen.
+<br>- Hvis du vil, kan du sette starttider for løperne ved å trykke på "Starttider". En dialogboks åpnes, hvor du kan skrive inn starttider i minutter for hver løper.
+<p align=right class=credits>Translation by Øystein Jaren Samuelsen</p>####
+Mange takk. Din løpstrasé er lagret. Trykk på web-leserens 
+"Tilbake"-knapp for å gå tilbake til forrige side.

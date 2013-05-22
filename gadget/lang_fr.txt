@@ -1,0 +1,23 @@
+Instructions:
+<p>
+<br><B>COMMENT DESSINER ET ENREGISTER VOTRE ITINERAIRE</B>
+<br>1. Choisir la case "Dessiner votre itinéraire", qui est située dans l'angle en haut à droite de l'écran.
+<br>2. Choisir votre catégorie et votre nom dans la liste qui apparait losque vous sélectionnez la case.
+<br>3. Localiser le point de départ (le triangle) sur la carte. Vous pouvez faire bouger la carte en cliquant en continue sur le bouton gauche de votre souris et en faisant bouger la souris dans la direction voulue sur la carte.
+<br>4. Dessiner votre itinéraire depuis le point de départ jusqu'au premier poste en cliquant sur le bouton gauche de la souris aux endroits où vous changez de direction. (Le programme va dessiner un itinéraire continu entre les points que vous avez placé.) Votre route est dessinée en rouge. La ligne bleu indique la direction vers le prochain poste. Quand vous avez placé un point près du centre du cercle indiquant le poste, la ligne bleu passe au poste suivant. Si vous faites une erreur en plaçant les points, vous pouvez revenir un ou plusieurs points en arrière en pressant une ou plusieurs fois "annuler".
+<br>5. Vous pouvez aussi bouger la carte en traçant votre itinéraire: Appuyer en continu sur le bouton gauche de votre souris et diriger la souris dans la direction désirée.
+<br>6. Dessiner votre itinéraire complet du départ à l'arrivée.
+<br>7. Une fois parvenu à l'arrivée, en étant satisfait par le résultat, taper quelques courts commentaires dans les cases à cet effet et presser "Sauvegarder l'itinéraire".
+<br><br>
+<B>VOIR LES ITINERAIRES</B>
+<br>- Choisir en premier une catégorie, puis des compétiteurs dans la liste. (Seuls les coureurs qui ont tracé leurs itinéraires sont indiqués ici.) Enfin cliquer sur "Voir les itinéraires".
+<br>- Au maximum 10 coureurs peuvent être présentés en même temps. Si vous choisissez plus de 10 coureurs, seulement les 10 premiers compétiteurs de la liste seront présentés.
+<br>- Vous pouvez bouger la carte en maintenant appuyé le bouton gauche de votre souris et en la faisant bouger dans la direction voulue.
+<br><br>
+<B>ANIMATIONS</B>
+<br>- Choisir en premier une catégorie, puis des compétiteurs dans la liste (max 10). (Seuls les coureurs qui ont tracé leurs itinéraires sont indiqués ici.) Enfin cliquer sur "Voir les itinéraires".
+<br>- Commencer les animations en pressant le bouton "Démarer", qui va apparaître sur la partie droite de l'écran.
+<br>- Si vous le souhaitez, vous pouvez respecter les différentes heures de départ en cliquant sur "Heures de départ". Un message va apparaître, où vous pourrez indiquer les écarts de départ en minutes pour chaque coureurs.
+<p align=right class=credits>Traduction faite par François Gonon</p>####
+Merci. Votre itinéraire a été sauvegardé avec succès. Ciquez sur le bouton "Précendent" (en haut à gauche de votre écran) pour retourner à la page précedente.
+
